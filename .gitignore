@@ -1,0 +1,17 @@
+bin/
+gen/
+libs/
+obj/
+# Mac OS X detritus
+.DS_Store
+# products of "android create project" or "android update project"
+build.xml
+local.properties
+proguard-project.txt
+proguard.cfg
+*~
+assets
+external/data
+.settings
+.project
+.classpath

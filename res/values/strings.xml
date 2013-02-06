@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Nasaem Syria</string>
+    <string name="listen">Listen</string>
+    <string name="read">Read</string>
+    <string name="menu_settings">Settings</string>
+    
+        <!-- Do not translate. Duration format for duration < 1 hour -->
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
+    <!-- Do not translate. Duration format for duration >= 1 hour -->
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+    
+        <string name="emptyplaylist">Selected playlist is empty.</string>
+        	<string name="notification_artist_album" msgid="2128095771677061443">"<xliff:g id="ALBUM">%2$s</xliff:g>" - "<xliff:g id="ARTIST">%1$s</xliff:g>"</string>
+    <string name="playback_failed">Sorry, the player does not support this type of media file.</string>
+        	
+	<string name="nowplaying_title">Now playing</string>
+	<string name="play_queue_title">Play Queue</string>
+		<string name="widget_one_track_info_unavailable">"No track info available"</string>
+		
+	<string name="unknown_artist_name">Unknown artist</string>
+    <string name="unknown_album_name">Unknown album</string>
+</resources>
